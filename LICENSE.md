@@ -1,4 +1,4 @@
-# 
+# Personalizado VisionSense kit de ferramentas. Baixe e instale com compatível com Python e escalável — rápido, seguro e fácil de usar.
 
 
 
